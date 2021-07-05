@@ -1,9 +1,11 @@
 # ESP8266 Kindle Touch Simulator
 Simulate touchscreen \"presses\" remotely on the Kindle.
 
+[More details about this project](https://bneo99.github.io/projects/2021/07/05/esp8266-kindle-remote.html)
+
 ## Kindle
 ### Tested on:
-Kindle Paperwhite 3
+- Kindle Paperwhite 3
 
 ### Requirements
 - [Jailbroken Kindle](https://wiki.mobileread.com/wiki/5_x_Jailbreak)
