@@ -26,5 +26,5 @@ Simulate touchscreen \"presses\" remotely on the Kindle.
 ## References
 - [Kindle Web Remote Control](https://www.instructables.com/Kindle-Web-Remote-Control/)
 - [Kindle WiFi Remote Footswitch](https://www.instructables.com/Kindle-WiFi-Remote-Footswitch/)
-- [Keeping the Kindle awake](http://www.mobileread.mobi/forums/showthread.php?t=220810&page=3)
+- [Keeping the Kindle awake](http://www.mobileread.com/forums/showthread.php?t=220810&page=3)
 - [Running scripts on Kindle startup](https://www.mobileread.com/forums/showthread.php?t=221019)
